@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\server_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model\ShopItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\model\ShopItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model\ShopItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\model\ShopItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\Server$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\Distributed Systems\Final Project\Personal-DS-Assignment\SERVER\target\scala-2.12\classes\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
